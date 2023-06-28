@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "DensParcorr"]
 	path = DensParcorr
 	url = https://github.com/cran/DensParcorr
-	shallow = true
-	registered = true
 [submodule "NIRStat"]
 	path = NIRStat
 	url = https://github.com/cran/NIRStat
-	shallow = true
-	registered = true
